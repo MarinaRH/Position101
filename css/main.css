@@ -1,0 +1,20 @@
+body {
+  background:rgb(198, 236, 70);
+  color: #1a0a4a;
+}
+
+.menu {
+  display: block;
+  border: 10px;
+  font-size: 25px;
+  font-family: cursive;
+  text-align: center;
+}
+
+a {
+  color:#1a0a4a;
+}
+
+a:hover {
+  color:white;
+}

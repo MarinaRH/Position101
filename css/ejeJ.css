@@ -1,0 +1,29 @@
+#container {
+  position: relative;
+  background: green;
+}
+
+#nav {
+  position: static;
+  background: yellow;
+}
+
+#content {
+  position: relative;
+  left: 25px;
+  top:60px;
+  background: blue;
+}
+#callout {
+  position: absolute;
+  left: -80px;
+  height: 100px;
+  width: 100px;
+  background: red
+
+}
+
+#footer {
+  position: fixed;
+  background: black;
+}

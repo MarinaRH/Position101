@@ -1,0 +1,15 @@
+.foot {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background:#8ec6ee ;
+	height: 100px;
+	font-size: 20px;
+}
+
+#box_1 {
+	position: absolute;
+	width: 2000px;
+	height: 2000px;
+	background: #aff418;
